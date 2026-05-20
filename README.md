@@ -1,4 +1,4 @@
-## AtliQ Sales Report :
+## AtliQ Sales Report:
 
 
 - **Project objective:** 
