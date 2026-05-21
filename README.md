@@ -13,6 +13,13 @@ To support data-driven decision-making, I designed a Business Intelligence (BI) 
 * [Profit and Loss (P&L) Reports by Fiscal Year](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 * [Profit and Loss (P&L) Reports by Months](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 * [Profit and Loss (P&L) Reports by Markets](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+* [Division Level Report](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/Division%20Level%20Report.pdf)
+* [Gross Margin](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/Gross%20Margin%20%25.pdf)
+* [Top 10 Products](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products.pdf)
+* [Top and Bottom 5 Products](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/Top%20and%20Bottom%205%20Products.pdf)
+* [Top 5 Countries - 2021](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/Top%205%20Countries%20-%202021.pdf)
+* [New Products - 2021](https://github.com/rithesh-data-lab/AtliQ-Sales-and-Finance-Analytics/blob/main/New%20Products%20-%202021.pdf)
+
 
 ---
 
