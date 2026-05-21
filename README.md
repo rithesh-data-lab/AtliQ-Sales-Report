@@ -81,5 +81,3 @@ Develop an interactive Sales & Finance Analytics Dashboard that delivers insight
 ## 💡 Conclusion
 ⭐ This project showcases how Excel, when combined with core BI concepts and data modeling, can deliver powerful business insights comparable to advanced BI tools like Power BI or Tableau. It serves as a valuable framework for business leaders, analysts, and data enthusiasts looking to leverage Excel for serious analytics.
 
----
-*Feel free to explore the data and dashboard files in this repository. If you have any questions or feedback, let's connect!*
