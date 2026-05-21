@@ -1,4 +1,4 @@
-# 📊 Atliq – Sales & Finance Analytics Report 
+# 📊 AtliQ – Sales & Finance Analytics Report 
 
 ## 📌 Introduction
 **Atliq Hardware** is a global manufacturer and distributor of PCs, peripherals, networking, and storage devices. Its products reach customers worldwide through retail partners like Croma, Best Buy, Flipkart, and Amazon. 
